@@ -1,0 +1,1 @@
+mkdir $env:windir\temp\Cache
