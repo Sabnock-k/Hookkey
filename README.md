@@ -1,7 +1,7 @@
 # 🪝 Hookkey
 
 **Hookkey** is a simple, lightweight keylogger built **for educational purposes only**.  
-This project was inspired by a Acrylic (https://youtu.be/ZnAhKwHLWd4) demonstrating a keylogger setup using a USB Rubber Ducky.
+This project was inspired by Acrylic (https://youtu.be/ZnAhKwHLWd4) demonstrating a keylogger setup using a USB Rubber Ducky.
 
 ---
 
