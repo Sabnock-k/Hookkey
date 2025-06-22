@@ -7,9 +7,9 @@ This project was inspired by Acrylic (https://youtu.be/ZnAhKwHLWd4) demonstratin
 
 ## 🎯 Why I Made This
 
-I created **Hookkey** after seeing a YouTube video showcasing a hardware-based keylogger using a USB Rubber Ducky. I was curious to explore the concept purely with software and minimal payloads.
+I created **Hookkey** after seeing a YouTube video showcasing a hardware-based keylogger using a USB Rubber Ducky. I was curious to explore the concept purely with software and minimal payloads without using a USB rubber ducky (because i can't afford one).
 
-The goal of this project is to help others understand the basics of how keyloggers work and encourage ethical security research.
+The goal of this project is to send a payload script as short as possible with the help of pastebin.com,to help others understand the basics of how keyloggers work and encourage ethical security research.
 
 ---
 
@@ -17,7 +17,6 @@ The goal of this project is to help others understand the basics of how keylogge
 
 In the original video, the creator:
 - Used a **USB Rubber Ducky** to run a pre-written payload.
-- Relied on hardware to simulate keyboard and mouse inputs.
 
 With **Hookkey**:
 - ✅ **Software-only:** No special hardware is required.
