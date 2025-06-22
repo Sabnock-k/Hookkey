@@ -53,3 +53,10 @@ I take no responsibility for any unethical or illegal use of this code.
 1. Clone this repository:
    ```bash
    git clone https://github.com/Sabnock-k/Hookkey.git
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!  
+If you’d like to help improve **Hookkey**, feel free to **Fork** this repository.
