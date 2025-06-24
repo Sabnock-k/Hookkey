@@ -50,10 +50,8 @@ I take no responsibility for any unethical or illegal use of this code.
 
 ## 🧑‍💻 Usage
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Sabnock-k/Hookkey.git
-
+1. Modify the contents of the the inject txt file
+2. Run in CMD
 ---
 
 ## 🤝 Contributing
