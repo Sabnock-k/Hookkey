@@ -50,7 +50,7 @@ I take no responsibility for any unethical or illegal use of this code.
 
 ## 🧑‍💻 Usage
 
-1. Modify the contents of the the inject txt file
+1. Modify the contents of the inject txt file
 2. Run in CMD
 ---
 
