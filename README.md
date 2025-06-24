@@ -1,11 +1,11 @@
-# 🪝 Hookkey
+# Hookkey
 
 **Hookkey** is a simple, lightweight keylogger built **for educational purposes only**.  
 This project was inspired by Acrylic (https://youtu.be/ZnAhKwHLWd4) demonstrating a keylogger setup using a USB Rubber Ducky.
 
 ---
 
-## 🎯 Why I Made This
+## Why I Made This
 
 I created **Hookkey** after seeing a YouTube video showcasing a hardware-based keylogger using a USB Rubber Ducky. I was curious to explore the concept purely with software and minimal payloads without using a USB rubber ducky (because i can't afford one).
 
@@ -13,7 +13,7 @@ The goal of this project is to send a payload script as short as possible with t
 
 ---
 
-## ✨ Difference From the Video
+## Difference From the Video
 
 In the original video, the creator:
 - Used a **USB Rubber Ducky** to run a pre-written payload.
@@ -26,7 +26,7 @@ With **Hookkey**:
 
 ---
 
-## 🧠 How It Works
+## How It Works
 
 **Hookkey** works by capturing keyboard inputs and storing them into a log file for review.  
 Here’s a high-level overview of the process:
@@ -48,7 +48,7 @@ I take no responsibility for any unethical or illegal use of this code.
 
 ---
 
-## 🧑‍💻 Usage
+## Usage
 
 1. Modify the contents of the inject txt file
 2. Run in CMD
