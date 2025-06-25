@@ -51,7 +51,7 @@ I take no responsibility for any unethical or illegal use of this code.
 ## Usage
 
 1. Modify the contents of the inject txt file
-2. Run in CMD
+2. Run inject.txt in CMD
 ---
 
 ## 🤝 Contributing
